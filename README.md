@@ -28,8 +28,8 @@ Sometimes the audio can lack depth, especially on certain platforms. DeepBass pr
 
 ## Team
 
-- Your Name [@yourusername](https://github.com/yourusername)
-- Collaborator Name [@collaboratorusername](https://github.com/collaboratorusername)
+- Guilherme Andrade [@adr-g](https://github.com/adr-g)
+- André Silva [@andresilva669](https://github.com/andresilva669)
 
 > ## License
 >
