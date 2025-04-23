@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+      <img src="icon.png" alt="logo" class="logo">
+      <h3>DeepBass</h3>
+    </div>
+    <h4>by ASGA.RD</h4>
+    
+    <label for="bass-slider">Bass Boost:</label>
+    <input type="range" id="bass-slider" min="0" max="100" step="1" value="0">
+    <div class="ruler">
+        <span>0</span>
+        <span>50</span>
+        <span>100</span>
+    </div>
+    
+    <div class="switch-reset-container">
+        <div class="switch" id="toggle"></div>
+        <button class="reset-button" id="reset-button">Reset</button>
+    </div>
+    
+    <script src="popup.js"></script>
+</body>
+</html>
